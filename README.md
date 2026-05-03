@@ -4,13 +4,12 @@ This portfolio is ready to publish as a static website.
 
 ## Publish with GitHub Pages
 
-1. Create a public GitHub repository named `portfolio`.
+1. Create a public GitHub repository named `portfolio-shruti-dhere`.
 
 2. Add the remote and push from this folder:
 
 ```powershell
 cd "c:\Users\dell\Desktop\portfolio-Shruti Dhere"
-git branch -M main
 git push -u origin main
 ```
 
@@ -20,7 +19,7 @@ git push -u origin main
    - Save
 
 4. After a minute, your public link will be:
-   - `https://<your-username>.github.io/<repo-name>/`
+   - `https://ShrutiDhere.github.io/portfolio-shruti-dhere/`
 
 ## Notes
 
